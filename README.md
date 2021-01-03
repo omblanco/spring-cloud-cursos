@@ -1,4 +1,4 @@
-# spring-cloud-cursos
+# Spring Cloud Cursos
 Spring Cloud Cursos
 
 ## Índice
